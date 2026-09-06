@@ -16,5 +16,5 @@
 <img align="center" alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div></Br>
-<p style="margin-top: 20px">Gosto muito de programação, tecnologias e de ajudar as pessoas ao meu redor.</p>
+<p style="margin-top: 20px"></p>
 
